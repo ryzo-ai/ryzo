@@ -16,9 +16,9 @@
       "category": "productivity",
       "source": {
         "source": "github",
-        "repo": "initforthevibe/outbound-os"
+        "repo": "ryzo-ai/outbound-os"
       },
-      "homepage": "https://github.com/initforthevibe/outbound-os"
+      "homepage": "https://github.com/ryzo-ai/outbound-os"
     },
     {
       "name": "revops-os",
@@ -29,9 +29,9 @@
       "category": "productivity",
       "source": {
         "source": "github",
-        "repo": "initforthevibe/revops-os"
+        "repo": "ryzo-ai/revops-os"
       },
-      "homepage": "https://github.com/initforthevibe/revops-os"
+      "homepage": "https://github.com/ryzo-ai/revops-os"
     },
     {
       "name": "performance-os",
@@ -42,9 +42,9 @@
       "category": "productivity",
       "source": {
         "source": "github",
-        "repo": "initforthevibe/performance-os"
+        "repo": "ryzo-ai/performance-os"
       },
-      "homepage": "https://github.com/initforthevibe/performance-os"
+      "homepage": "https://github.com/ryzo-ai/performance-os"
     },
     {
       "name": "fundraise-os",
@@ -55,9 +55,9 @@
       "category": "productivity",
       "source": {
         "source": "github",
-        "repo": "initforthevibe/fundraise-os"
+        "repo": "ryzo-ai/fundraise-os"
       },
-      "homepage": "https://github.com/initforthevibe/fundraise-os"
+      "homepage": "https://github.com/ryzo-ai/fundraise-os"
     },
     {
       "name": "conversion-os",
@@ -68,9 +68,9 @@
       "category": "productivity",
       "source": {
         "source": "github",
-        "repo": "initforthevibe/conversion-os"
+        "repo": "ryzo-ai/conversion-os"
       },
-      "homepage": "https://github.com/initforthevibe/conversion-os"
+      "homepage": "https://github.com/ryzo-ai/conversion-os"
     },
     {
       "name": "community-os",
@@ -81,9 +81,9 @@
       "category": "productivity",
       "source": {
         "source": "github",
-        "repo": "initforthevibe/community-os"
+        "repo": "ryzo-ai/community-os"
       },
-      "homepage": "https://github.com/initforthevibe/community-os"
+      "homepage": "https://github.com/ryzo-ai/community-os"
     }
   ]
 }
