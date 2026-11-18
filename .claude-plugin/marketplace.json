@@ -45,45 +45,6 @@
         "repo": "ryzo-ai/performance-os"
       },
       "homepage": "https://github.com/ryzo-ai/performance-os"
-    },
-    {
-      "name": "fundraise-os",
-      "description": "Ryzo's fundraising operating system — LP and VC raise tracks.",
-      "author": {
-        "name": "Ryzo"
-      },
-      "category": "productivity",
-      "source": {
-        "source": "github",
-        "repo": "ryzo-ai/fundraise-os"
-      },
-      "homepage": "https://github.com/ryzo-ai/fundraise-os"
-    },
-    {
-      "name": "conversion-os",
-      "description": "Ryzo's CRO & landing-page operating system.",
-      "author": {
-        "name": "Ryzo"
-      },
-      "category": "productivity",
-      "source": {
-        "source": "github",
-        "repo": "ryzo-ai/conversion-os"
-      },
-      "homepage": "https://github.com/ryzo-ai/conversion-os"
-    },
-    {
-      "name": "community-os",
-      "description": "Ryzo's community-building operating system.",
-      "author": {
-        "name": "Ryzo"
-      },
-      "category": "productivity",
-      "source": {
-        "source": "github",
-        "repo": "ryzo-ai/community-os"
-      },
-      "homepage": "https://github.com/ryzo-ai/community-os"
     }
   ]
 }
