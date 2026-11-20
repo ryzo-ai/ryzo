@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "ryzo",
-  "description": "Ryzo's open-source AI-native GTM & RevOps operating systems for Claude Code.",
+  "description": "Open-source Claude Code skills for B2B go-to-market: outbound, RevOps and paid ads. From Ryzo AI Workflows.",
   "owner": {
     "name": "Ryzo",
     "url": "https://ryzo.nl"
